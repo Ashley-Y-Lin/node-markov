@@ -1,0 +1,12 @@
+{
+  "name": "2023-5-9-node-markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markov.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
